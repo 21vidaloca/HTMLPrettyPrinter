@@ -40,6 +40,4 @@ mv formatted.html input.html
 ## License
 This script is released under the MIT License.
 
-## Author
-Your Name
 
